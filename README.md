@@ -1,8 +1,6 @@
 # Codex Batch Code Review
 
-> ⚠️ **Heads up** — This is experimental code, shared for ideas and inspiration. Expect rough edges.
-
-A toolkit for running parallel code reviews across a monorepo using [Codex CLI](https://github.com/openai/codex) and tmux.
+> ⚠️ **Heads up** — This is experimental code, shared for ideas and inspiration. I extracted this from a bigger codebase as a showcase
 
 This demonstrates a workflow for reviewing multiple packages, services, or directories simultaneously—each in its own tmux pane—so you can monitor AI-powered code reviews at scale.
 
